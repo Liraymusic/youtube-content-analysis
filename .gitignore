@@ -1,0 +1,10 @@
+# secrets
+.env
+# personal / non-portfolio folders
+Fiverr/
+Freelancehunt/
+Upwork/
+INSIGHTS_tech_youtube.md
+TABLEAU_CHEATSHEET.md
+.DS_Store
+__pycache__/
